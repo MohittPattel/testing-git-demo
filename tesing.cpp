@@ -5,6 +5,11 @@ int main()
 {
     if(cout<<"Hello World Using IF\n")
 
-
+    while (cout<<"Hello World")
+    {
+        /* code */
+        break;
+    }
+    
     return 0;
 }
