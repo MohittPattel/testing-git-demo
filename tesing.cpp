@@ -5,8 +5,6 @@ int main()
 {
     if(cout<<"Hello World Using IF\n")
 
-    while(cout<<"Hello World Using While\n")
-        break;
 
     return 0;
 }
